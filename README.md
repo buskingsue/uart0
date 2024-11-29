@@ -1,5 +1,5 @@
-# MASTER BRANCH UARTO통신 기본코드
-# char_input branch 문자 입력코드
+# 1. MASTER BRANCH UARTO통신 기본코드
+# 2. char_input branch 문자 입력코드
 
 
 # UARTO통신

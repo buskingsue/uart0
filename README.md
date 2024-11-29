@@ -1,5 +1,5 @@
 # 1. MASTER BRANCH UARTO통신 기본코드
-# 2. main branch 정상 코드
+# 2. main branch LED 문자 출력, 빛 출력
 # UARTO통신
 ## ATMEGA128A
 ### 2024년 11월 29일 (금)
